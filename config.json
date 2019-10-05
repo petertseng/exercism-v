@@ -6,5 +6,42 @@
   "ignore_pattern": "[Ee]xample",
   "solution_pattern": "[Ee]xample",
   "test_pattern": "[Tt]est",
-  "exercises": null
+  "exercises": [
+    {
+      "slug": "helloworld",
+      "uuid": "9ca16286-b359-40c5-bfed-a829a6535dd3",
+      "core": false,
+      "auto_approve": true,
+      "unlocked_by": null,
+      "difficulty": 1,
+      "topics": ["hello"]
+    },
+    {
+      "slug": "hello_world",
+      "uuid": "50f7602c-47c0-4790-aa64-5436e5c6e42a",
+      "core": true,
+      "auto_approve": true,
+      "unlocked_by": null,
+      "difficulty": 1,
+      "topics": ["hello"]
+    },
+    {
+      "slug": "hello-world-main-mod",
+      "uuid": "466fd305-2e11-46b4-a145-1a6db3fc5f82",
+      "core": true,
+      "auto_approve": true,
+      "unlocked_by": null,
+      "difficulty": 1,
+      "topics": ["hello"]
+    },
+    {
+      "slug": "hello-world-nest",
+      "uuid": "da4dfc49-ac94-4154-bcae-be9c85ec011d",
+      "core": true,
+      "auto_approve": true,
+      "unlocked_by": null,
+      "difficulty": 1,
+      "topics": ["hello"]
+    }
+  ]
 }
