@@ -2,6 +2,10 @@ language: bash
 
 install:
   - bin/fetch-configlet
+  - git clone https://github.com/vlang/v
+  - cd v
+  - make
+  - cd ..
 
 script:
   - bin/configlet lint --track-id v .
