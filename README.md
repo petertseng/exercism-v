@@ -1,6 +1,6 @@
 # Exercism V Track
 
-[![Build Status](https://travis-ci.org/exercism/v.svg?branch=master)](https://travis-ci.org/exercism/v)
+[![Tests](https://github.com/exercism/v/workflows/Tests/badge.svg?branch=master)](https://github.com/exercism/v/actions?query=workflow%3ATests+branch%3Amaster)
 
 Exercism exercises in V.
 
@@ -43,7 +43,7 @@ Other attempts were tested unsuccessfully:
     * in this case, then `error: cannot import multiple modules at a time` on the `import hello-world` line.
     * See `exercises/hello-world`
 
-Please see [Travis results](https://travis-ci.org/github/petertseng/exercism-v) to see all attempts resulting from the cartesian product of various testing scripts vs exercise directory structures.
+Please see [CI results](https://github.com/petertseng/exercism-v/actions?query=workflow%3ATests+branch%3Amaster) to see all attempts resulting from the cartesian product of various testing scripts vs exercise directory structures.
 
 Since this is only a report of what has been tried so far, a future maintainer should feel free to consider new ways to solve the above problem.
 For example, maybe in the future V will allow hyphens in module names.
