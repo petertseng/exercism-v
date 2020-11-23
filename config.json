@@ -42,14 +42,6 @@
       "unlocked_by": null,
       "difficulty": 1,
       "topics": ["hello"]
-    },
-    {
-      "slug": "leap",
-      "uuid": "c10a6987-ddd8-499c-9898-37e2b0322046",
-      "core": false,
-      "unlocked_by": null,
-      "difficulty": 1,
-      "topics": ["integers"]
     }
   ]
 }
