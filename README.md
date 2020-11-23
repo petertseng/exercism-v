@@ -1,6 +1,6 @@
 # Exercism V Track
 
-[![Tests](https://github.com/exercism/v/workflows/Tests/badge.svg?branch=master)](https://github.com/exercism/v/actions?query=workflow%3ATests+branch%3Amaster)
+[![Tests](https://github.com/petertseng/exercism-v/workflows/Tests/badge.svg?branch=master)](https://github.com/petertseng/exercism-v/actions?query=workflow%3ATests+branch%3Amaster)
 
 Exercism exercises in V.
 
